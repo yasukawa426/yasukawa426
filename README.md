@@ -1,4 +1,5 @@
-## Hi there 👋
+## Wassup
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXd0dW5lbzBpNmJld2p1NXRpczBlbW1wMWtlb21oYjd1MmFycWZnbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7TKNtNquAUJS4C7m/giphy.webp">
 
 <!--
 **yasukawa426/yasukawa426** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
